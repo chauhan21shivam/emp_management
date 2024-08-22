@@ -1,0 +1,40 @@
+{
+  "employees": [
+    {
+      "id": "faab",
+      "name": "Abhishek",
+      "email": "a@gmail.com",
+      "password": "abhishek#123"
+    },
+    {
+      "id": "1c03",
+      "name": "Vivek",
+      "email": "v@gmail.com",
+      "password": "v#123"
+    },
+    {
+      "id": "a801",
+      "name": "Dev",
+      "email": "DevSingh@gmail.com",
+      "password": "d#123"
+    },
+    {
+      "id": "899f",
+      "name": "Nishant",
+      "email": "nishant@gmail.com",
+      "password": "nish#123`"
+    },
+    {
+      "id": "ecdb",
+      "name": "Nishant Soam",
+      "email": "nishant@gmail.com",
+      "password": "nish#123"
+    },
+    {
+      "id": "5714",
+      "name": "Shivam",
+      "email": "shivathakur1121@gmail.com",
+      "password": "1234"
+    }
+  ]
+}
